@@ -1,0 +1,9 @@
+.mb-2 {
+  display: grid;
+  width: 350px;
+  height: 420px;
+  border-radius: 19px;
+  background:grey;
+  box-shadow:black;
+} 
+  
